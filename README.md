@@ -25,4 +25,4 @@ This project analyzes and predicts monthly food price indexes using machine lear
 
 ## 🧠 Author
 Abdulaziz Toshpulatov  
-Telegram bot & AI developer — [LinkedIn](https://www.linkedin.com/in/abdulaziz-toshpulatov/)
+Software & AI developer — [LinkedIn](https://www.linkedin.com/in/abdulaziz-toshpulatov/)
