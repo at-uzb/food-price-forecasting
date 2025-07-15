@@ -20,7 +20,8 @@ This project analyzes and predicts monthly food price indexes using machine lear
 - Cakes & sweets = seasonal spikes
 
 ## 📊 Dashboard Preview
-➡️ Add a screenshot of your Power BI dashboard here
+<img width="810" height="458" alt="image" src="https://github.com/user-attachments/assets/f1e1c390-413e-4275-96ee-4c4fae125294" />
+
 
 ## 🧠 Author
 Abdulaziz Toshpulatov  
